@@ -3,9 +3,9 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to the Loans microservice in production"
+  message: "Welcome to the Loans microservice in prod"
   contactInfo:
-    name: "Loans Team in production"
+    name: "Loans Team in prod"
     email: "loans@bank.com"
   onCallSupport:
     - "9943032698"
