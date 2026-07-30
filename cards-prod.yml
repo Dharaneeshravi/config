@@ -2,9 +2,9 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to the Cards microservice in prod"
+  message: "Welcome to the Cards microservice in production"
   contactInfo:
-    name: "Cards Team in prod"
+    name: "Cards Team in production"
     email: "cards@bank.com"
   onCallSupport:
     - "9943032698"
