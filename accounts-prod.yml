@@ -6,7 +6,7 @@ build:
 accounts:
   message: "Welcome to the Accounts microservice related production APIs"
   contactInfo:
-    name: "Accounts Team prod-Lead"
+    name: "Accounts Team production-Lead"
     email: "{cipher}e529d68b8cb0f53211b0dbb81350e921da146e55067825032e82522c983bd0fdd5520a2b7bdda4cf90438b3fd3e6f91b"
   onCallSupport:
     -9943032698
